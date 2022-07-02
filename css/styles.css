@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', serif;
+}
+
+h1 {
+  font-size: 5.625rem;
+  color: #66BFBF;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin-top: 50px;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+}
+
+p {
+  color: #40514E;
+}
+
+hr {
+  border: none;
+  border-top: dotted 9px #EAF6F6;
+  width: 10%;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 450px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 150px;
+  top: 70px;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin-top: 50px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 17px;
+}
+.contact-me {
+  width: 50%;
+  margin: auto;
+  line-height: 2;
+}
+.profile {
+  display: inline-block;
+  width: 50%;
+  margin: auto;
+}
+
+.profile-img {
+  display: inline-block;
+  width: 50%;
+}
+
+.skill-row {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.globe {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.globe2 {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.linkedin-logo {
+  height: 50px;
+}
+
+.email-logo {
+  height: 50px;
+}
